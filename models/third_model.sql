@@ -1,0 +1,1 @@
+select row_id,bill_accnt_name from praise.siebel.cx_bill_accnt
